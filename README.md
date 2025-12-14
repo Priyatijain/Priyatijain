@@ -7,7 +7,6 @@ I am a Generative AI Engineer / Data Scientist with close to 2 years of hands-on
 My work sits at the intersection of large language models, data engineering, and system design. I primarily work on multi-agent orchestration, Retrieval-Augmented Generation (RAG), and LLM-driven automation pipelines that operate on structured and unstructured data.
 
 ## What I Work On
-
 My day-to-day work involves designing LLM-powered systems where multiple components or agents collaborate to solve complex tasks. This includes:
 
 - Multi-agent workflows using LangGraph, LangChain, and CrewAI  
@@ -19,7 +18,6 @@ My day-to-day work involves designing LLM-powered systems where multiple compone
 I place strong emphasis on reliability, structured outputs, and reducing hallucinations so that LLM systems behave predictably in production environments.
 
 ## About This Repository
-
 This repository is a portfolio of real-world GenAI system designs and workflows based on my professional experience.
 Due to enterprise and client confidentiality, source code cannot be shared publicly. Instead, this repository focuses on:
 
@@ -31,7 +29,6 @@ Due to enterprise and client confidentiality, source code cannot be shared publi
 This reflects how production GenAI systems are typically reviewed and discussed in enterprise settings.
 
 ## Projects Covered
-
 The case studies in this repository are based on real enterprise and innovation projects I have worked on. While source code is not shared due to confidentiality, each project is documented with architecture, agent workflows, and design decisions.
 
 ### Agentic Analytics Platform (GCash)
@@ -50,30 +47,47 @@ Built a multi-agent project management assistant that ingests project data, dete
 Implemented a conversational AI system with long-term memory using LangGraph and LangMem. The assistant stores episodic and semantic memories in PostgreSQL-backed vector storage, enabling persistent personalization across sessions instead of stateless conversations.
 
 ## Tech Stack
-
 ### Programming & Core Development
-Python is my primary development language for building AI pipelines, backend services, and orchestration logic. I also have a foundational understanding of C/C++ from academic and systems coursework.
+- Python for building AI pipelines, backend services, and orchestration logic  
+- Foundational understanding of C/C++ from academic and systems coursework  
 
 ### Generative AI & Agentic Frameworks
-I work extensively with LangChain, LangGraph, CrewAI, AutoGen, and LangMem to design multi-agent systems. These frameworks are used to orchestrate agent workflows, enforce reasoning boundaries, enable tool usage, and support memory-aware AI applications.
+- Hands-on experience with LangChain, LangGraph, CrewAI, AutoGen, and LangMem  
+- Designing multi-agent systems with clear role separation and orchestration  
+- Implementing agent workflows with reasoning boundaries and tool integration  
+- Building memory-aware AI applications using episodic and semantic memory  
 
 ### Prompt Engineering & Reasoning
-Experience with structured prompting techniques including zero-shot, few-shot, instruction-based, and role-based prompting. I focus on enforcing deterministic outputs, schema adherence, and controlled reasoning in LLM-powered systems.
+- Structured prompt design using zero-shot, few-shot, instruction-based, and role-based prompting  
+- Enforcing deterministic outputs and schema adherence in LLM responses  
+- Applying controlled reasoning patterns to reduce hallucinations  
 
 ### Retrieval-Augmented Generation (RAG)
-Designed RAG pipelines using embeddings and vector databases to enable semantic search over structured and unstructured data. Tools include FAISS and PostgreSQL (pgvector) for efficient similarity search and context retrieval.
+- Designing RAG pipelines for structured and unstructured data sources  
+- Using embeddings for semantic search and context retrieval  
+- Working with FAISS and PostgreSQL (pgvector) for vector-based similarity search  
 
 ### Machine Learning & NLP
-Hands-on experience with PyTorch, TensorFlow, scikit-learn, and the Hugging Face ecosystem. Strong foundation in NLP, transformers, supervised and unsupervised learning techniques, and representation learning concepts such as VAEs.
+- Practical experience with PyTorch, TensorFlow, scikit-learn, and Hugging Face  
+- Strong foundation in Natural Language Processing (NLP) and transformers  
+- Experience with supervised learning (regression, classification)  
+- Exposure to unsupervised learning techniques and representation learning (VAEs)  
 
 ### LLM Models & Fine-Tuning Concepts
-Worked with GPT-series, Gemini, LLaMA, and Mistral models. Familiar with parameter-efficient fine-tuning techniques such as LoRA and QLoRA, with a focus on conceptual understanding and practical application constraints.
+- Working knowledge of GPT-series, Gemini, LLaMA, and Mistral models  
+- Understanding of parameter-efficient fine-tuning approaches (LoRA, QLoRA)  
+- Awareness of fine-tuning trade-offs and practical deployment constraints  
 
 ### Backend, Cloud & Deployment
-Built backend services using FastAPI and REST APIs. Experience integrating LLM platforms such as OpenAI APIs, AWS Bedrock, and Google Cloud (Vertex AI) for scalable inference and orchestration.
+- Building backend services using FastAPI and REST APIs  
+- Integrating LLM platforms such as OpenAI APIs, AWS Bedrock, and Google Vertex AI  
+- Supporting scalable inference and API-driven GenAI workflows  
 
 ### Applied AI & Delivery Practices
-Foundational understanding of CI/CD concepts for ML systems, LLMOps principles, Model Context Protocol (MCP), and Agile/Scrum workflows. Practical experience building document parsing, OCR-based pipelines, and conversational AI systems.
+- Foundational understanding of CI/CD concepts for ML systems  
+- Exposure to LLMOps principles and Model Context Protocol (MCP)  
+- Familiarity with Agile/Scrum development workflows  
+- Experience building document parsing, OCR-based pipelines, and conversational AI systems  
 
 
 ## Why This Portfolio Exists
