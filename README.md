@@ -77,9 +77,7 @@ Foundational understanding of CI/CD concepts for ML systems, LLMOps principles, 
 
 
 ## Why This Portfolio Exists
-
 This repository is not meant to showcase toy examples. It is intended to demonstrate how I approach GenAI system design, agent orchestration, and real-world AI problem solving in enterprise environments.
-
 If you are interested in agentic AI, LLM system design, or production-ready GenAI applications, this portfolio should give a clear picture of my work and thinking.
 
 
